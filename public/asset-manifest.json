@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7859c58.chunk.css",
+    "main.js": "/static/js/main.21a5fa3c.chunk.js",
+    "main.js.map": "/static/js/main.21a5fa3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cbcb86ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cbcb86ff.js.map",
+    "static/js/2.7c4fd6d5.chunk.js": "/static/js/2.7c4fd6d5.chunk.js",
+    "static/js/2.7c4fd6d5.chunk.js.map": "/static/js/2.7c4fd6d5.chunk.js.map",
+    "static/js/3.d814b745.chunk.js": "/static/js/3.d814b745.chunk.js",
+    "static/js/3.d814b745.chunk.js.map": "/static/js/3.d814b745.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b7859c58.chunk.css.map": "/static/css/main.b7859c58.chunk.css.map",
+    "static/js/2.7c4fd6d5.chunk.js.LICENSE.txt": "/static/js/2.7c4fd6d5.chunk.js.LICENSE.txt",
+    "static/media/facebook-dark.8d51a556.png": "/static/media/facebook-dark.8d51a556.png",
+    "static/media/instagram-dark.ac32ec0a.png": "/static/media/instagram-dark.ac32ec0a.png",
+    "static/media/login-bg.1b5adc2b.jpg": "/static/media/login-bg.1b5adc2b.jpg",
+    "static/media/logo-kabayan.c85b5a01.png": "/static/media/logo-kabayan.c85b5a01.png",
+    "static/media/register-bg.82d0132b.jpg": "/static/media/register-bg.82d0132b.jpg",
+    "static/media/whatsapp-dark.29dd41c9.png": "/static/media/whatsapp-dark.29dd41c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcb86ff.js",
+    "static/js/2.7c4fd6d5.chunk.js",
+    "static/css/main.b7859c58.chunk.css",
+    "static/js/main.21a5fa3c.chunk.js"
+  ]
+}
